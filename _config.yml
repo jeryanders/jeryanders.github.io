@@ -1,0 +1,26 @@
+# Deps
+markdown: kramdown
+highlighter: rogue
+
+# Setup
+title: Run Go Run 
+email: jeryanders@gmail.com
+description: 'A .NET developer and his adventures with Go'
+baseurl: "" 
+url: "https://jeryanders.github.io" 
+author: 
+  name: 'Jesse Anderson'
+  url: https://twitter.com/atomdata
+
+# taglinetwitter_username: atomdata
+# github_username:  jeryanders
+# remote_theme: fongandrew/hydeout
+
+paginate: 5
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link: true
+
