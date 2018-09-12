@@ -1,6 +1,6 @@
 # Deps
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 
 # Setup
 title: Run Go Run 
