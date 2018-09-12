@@ -5,12 +5,7 @@ date:   2018-09-10 19:44:12 -0400
 categories: go blog 
 ---
 
-{% highlight golang %}
-package main
 
-import "fmt"
+Not quite. I'm in the middle of writing my first blog post. Please return.
 
-func main() {
-    fmt.Println("Hello Internet. First blob post coming soon.")
-}
-{% endhighlight %}
+break;
