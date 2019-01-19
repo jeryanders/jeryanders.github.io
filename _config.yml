@@ -3,14 +3,14 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: Run Go Run 
+title: Into the Wild
 email: jeryanders@gmail.com
-description: 'A .NET developer and his adventures with Go'
+description: 'A laudite software developer and the journey beyond the IDE'
 baseurl: "" 
 url: "https://jeryanders.github.io" 
 author: 
   name: 'Jesse Anderson'
-  url: https://twitter.com/atomdata
+  url: https://twitter.com/jeryanders
 
 # taglinetwitter_username: atomdata
 # github_username:  jeryanders
