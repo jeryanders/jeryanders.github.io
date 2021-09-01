@@ -1,0 +1,54 @@
+I"‹
+<h1 id="jesse-anderson">Jesse Anderson</h1>
+
+<ul>
+  <li><i class="fa fa-phone"></i> <a href="tel:by request">by request</a></li>
+  <li><i class="fa fa-home"></i> <a href="http://null">jeryanders.null</a></li>
+  <li><i class="fa fa-envelope"></i> <a href="mailto:jeryanders@gmail.com">jeryanders@gmail.com</a></li>
+</ul>
+
+<hr />
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">YYYY-YYYY</code>
+<strong>Employer</strong>
+<em>position</em> | <em>location</em></p>
+<ul>
+  <li>stuff</li>
+  <li>stuff</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">May, 2010</code>
+<strong>education</strong>
+|
+<em>degree</em></p>
+<ul>
+  <li>Concentrations:</li>
+  <li>_Involvement: _</li>
+</ul>
+
+<h2 id="technical-skills">Technical Skills</h2>
+<ul>
+  <li>List things here</li>
+</ul>
+
+<h2 id="other-skills">Other Skills</h2>
+<ul>
+  <li>list things here</li>
+</ul>
+
+<h2 id="honors--awards">Honors &amp; Awards</h2>
+
+<h2 id="social--community-presence">Social / Community Presence</h2>
+<ul>
+  <li><i class="fa fa-github"></i> <a href="https://github.com/dbburgess">Github</a></li>
+  <li><i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/5191100/dbburgess">Stack Overflow</a></li>
+  <li><i class="fa fa-linkedin"></i> <a href="https://linkedin.com/in/dbburgess">LinkedIn</a></li>
+</ul>
+
+:ET
