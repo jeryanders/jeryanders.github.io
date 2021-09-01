@@ -1,0 +1,37 @@
+/* Re-define the border sizes to be slightly bigger
+ * when printing. These are all copied from the screen
+ * stylesheet. Chrome, for some reason, appears to be
+ * arbitrarily collapsing *some* borders that are 0.1em
+ * when printing only. Exactly which borders disappear
+ * when I make subtle changes, so it appears there are
+ * some sort of sub-pixel sizing quirks causing the
+ * renderer to not render them when printing. In any
+ * case, bumping the size of the borders up slightly
+ * makes it work okay.
+ *
+ * It's a bit unfortunate, as I want the borders to be
+ * rather subtle, and a large size is the opposite of
+ * that...But it's better than inconsistent borders,
+ * I suppose. Feel free to let me know if there is a
+ * better solution that I'm missing. :)
+ */
+
+h2#experience ~ p, h2#education ~ p {
+    border-bottom: 0.2em dashed;
+    border-color: #aaa;
+}
+
+h2 ~ ul > li {
+    border-bottom: 0.2em dotted;
+    border-color: #ccc;
+}
+
+/* Hide the web navigation banner and reset the content margin. */
+
+#banner {
+    display: none;
+}
+
+#content {
+    margin-top: auto;
+}

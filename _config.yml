@@ -1,25 +1,2 @@
-# Deps
-markdown: kramdown
-highlighter: rouge
-
-# Setup
-title: Into the Wild
-email: jeryanders@gmail.com
-description: 'A luddite software developer and the journey beyond the IDE'
-baseurl: "" 
-url: "https://jeryanders.github.io" 
-author: 
-  name: 'Jesse Anderson'
-  url: https://twitter.com/jeryanders
-
-# taglinetwitter_username: atomdata
-# github_username:  jeryanders
-# remote_theme: fongandrew/hydeout
-
-paginate: 5
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-sidebar_home_link: true
+includes_dir: "."
+layouts_dir: "templates"

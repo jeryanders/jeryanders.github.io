@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Daniel Burgess | Resume</title>
+
+  <!-- Presentation Styling -->
+  <link href="styles/screen.css" rel="stylesheet" media="screen,print">
+  <link href="styles/print.css" rel="stylesheet" media="print">
+
+  <!-- Custom Fonts -->
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Exo+2:400,600" rel="stylesheet">
+  <link href="//cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css" rel="stylesheet">
+</head>
+<body>
+  <div id="main">
+    <div id="banner">
+      <span id="github">
+        <a href="https://github.com/dbburgess/resume">View on Github <i class="fa fa-github"></i></a>
+      </span>
+      |
+      <span id="pdf">
+        <a href="https://dbburgess.github.io/resume/resume.pdf">Download PDF <i class="fa fa-file-pdf-o"></i></a>
+      </span>
+    </div>
+    <div id="content">
+    {{ content }}
+    </div>
+  </div>
+
+  <script>
+    /*
+       Since we can't use awesome font in Markdown,
+       but we want these pretty fonts in our rendered
+       view, we have to dynamically add them. This
+       structure is a mapping of the section header
+       ids to the desired font class in awesome font.
+    */
+    var headerIconMapping = [
+        { id: 'summary', icon: 'user' },
+        { id: 'experience', icon: 'briefcase' },
+        { id: 'education', icon: 'graduation-cap' },
+        { id: 'technical-skills', icon: 'code' },
+        { id: 'other-skills', icon: 'list-ul' },
+        { id: 'honors--awards', icon: 'trophy' },
+        { id: 'social--community-presence', icon: 'users' },
+    ];
+
+    /* Iterate through each section header and prepend the awesome font. */
+    headerIconMapping.forEach(function(item) {
+        var el = document.getElementById(item.id);
+        el.innerHTML = '<i class="fa fa-' + item.icon + '"><\/i> ' + el.textContent;
+    });
+  </script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-92881429-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</body>
+</html>
+

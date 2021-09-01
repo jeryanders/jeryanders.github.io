@@ -1,0 +1,225 @@
+/* General Document */
+body {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 75%;
+    line-height: 1.5em;
+    margin: 1em;
+}
+
+/* Link Styling */
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Document Meta Banner */
+#banner {
+    position: fixed;
+    z-index: 2;
+    text-align: right;
+    background: linear-gradient(to bottom, #fff 0%, #fff 85%, #ccc 85%, rgba(204, 204, 204, 0) 100%);
+    padding: 1em 1em;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#banner a {
+    font-size: 1.25em;
+    color: #666;
+}
+
+#content {
+    margin: 3em auto 0;
+    max-width: 12in;
+}
+
+/* Page Heading */
+h1 {
+    float: left;
+    font-size: 4em;
+    font-weight: 600;
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
+}
+
+/* Contact Details */
+h1 + ul {
+    float: right;
+    text-align: right;
+}
+
+h1 + ul > li {
+    list-style-type: none;
+}
+
+/* Page Heading Separator */
+hr {
+    border-style: solid;
+    border-width: 0.2em;
+    margin-bottom: 0;
+    color: #000;
+    clear: both;
+}
+
+/* Code Snippet Wrapper */
+hr + p {
+    margin: 0;
+    text-align: center;
+}
+
+/* Code Snippet */
+hr + p {
+    margin-top: 1.0em;
+    font-size: 0.1em;
+    font-size: 1.05vw;
+    line-height: 1.0em;
+}
+
+hr + p > code {
+    position: relative;
+    font-family: 'Hack', sans-serif;
+    font-size: 0.1em;
+    font-size: 1.05vw;
+    top: -0.5em;
+    z-index: 1;
+}
+
+/* Section Heading */
+h2 {
+    font-size: 2em;
+    font-weight: 600;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    border-bottom: 0.1em solid;
+    padding-bottom: 0.3em;
+    margin-bottom: 0.2em;
+}
+
+h2 > i.fa {
+    font-size: 75%;
+}
+
+/* The Education and Experience Sections */
+h2#experience ~ p, h2#education ~ p {
+    border-bottom: 0.1em dashed;
+    padding-bottom: 0.2em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+/* The Year */
+h2 ~ p > code {
+    font-family: 'Exo 2', sans-serif;
+    float: right;
+}
+
+/* The Company */
+h2 ~ p > strong {
+}
+
+/* The Position */
+h2 ~ p > em:first-of-type {
+    font-style: normal;
+}
+
+/* The Location */
+h2 ~ p > em:last-of-type {
+    font-style: normal;
+}
+
+/* Position Details */
+h2#experience ~ ul {
+    padding-left: 2em;
+    margin-top: 0em;
+}
+
+/* Subtle horizontal rule in between most list items. */
+h2 ~ ul > li {
+    list-style-type: none;
+    border-bottom: 0.1em dotted;
+    border-color: #ccc;
+}
+
+/* Hide horizontal rule for skills and social lists. */
+h2#technical-skills + ul > li, h2#other-skills + ul > li, h2#social--community-presence ~ ul > li {
+    border-bottom: 0;
+}
+
+/* Education GPA */
+h2#education ~ ul > li > code {
+    font-family: 'Exo 2', sans-serif;
+    float: right;
+}
+
+/* Skills Specifics */
+h2#technical-skills + ul {
+    column-count: 6;
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
+}
+
+h2#other-skills + ul {
+    column-count: 5;
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+}
+
+/* Social / Community */
+h2#social--community-presence + ul {
+    column-count: 5;
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+}
+
+i.fa > span.label {
+    display: none;
+}
+
+/* Adjustments for larger screens */
+@media only screen and (min-width: 12in) {
+
+    /* Tweak the Code Snippet font */
+    hr + p {
+        font-size: 1.02em;
+    }
+
+    hr + p > code {
+        font-size: 1.02em;
+    }
+}
+
+/* Adjustments for smaller screens */
+@media only screen and (max-width: 550px) {
+
+    /* Page Heading */
+    h1 {
+        margin-top: 8vw;
+        font-size: 5.25vw;
+    }
+
+    /* Skills Specifics */
+    h2#technical-skills + ul {
+        column-count: 4;
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+    }
+
+    h2#other-skills + ul {
+        column-count: 3;
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+    }
+
+    /* Social / Community */
+    h2#social--community-presence + ul {
+        column-count: 3;
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+    }
+}
+
