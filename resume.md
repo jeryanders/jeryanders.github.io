@@ -1,8 +1,8 @@
 # Jesse Anderson
 
 * <i class="fa fa-phone"></i> [by request](tel:by request)
-* <i class="fa fa-home"></i> [danielburgess.me](http://null)
-* <i class="fa fa-envelope"></i> [chat@danielburgess.me](mailto:jeryanders@gmail.com)
+* <i class="fa fa-home"></i> [jeryanders.null](http://null)
+* <i class="fa fa-envelope"></i> [jeryanders@gmail.com](mailto:jeryanders@gmail.com)
 
 ---
 
