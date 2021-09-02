@@ -62,19 +62,32 @@ _A.A. in Humanities_
 * _Involvement: Amnesty International_
 
 ## Technical Skills
-* Full Stack JavaScript (NodeJS, ReactJS, AngularJS)
-* Cloud Development (AWS, Azure)
-* C#, .NET Framework / .NET Core
+* JavaScript
+* NodeJS
+* ReactJS
+* AngularJS
+* AWS
+* Azure
+* C#
+* .NET Framework / .NET Core
 * SQL
-* NoSQL Databases (DynamoDb, CosmosDb, MongoDb)
+* DynamoDb
+* CosmosDb
+* MongoDb
 * GoLang
-* IaC (Terraform, CloudFormation, ARM Templates)
-* DevOps (Jenkins, CircleCI, Github Actions)
-* Docker and Containerized microservice development
-* Serverless (Lambdas, Azure Functions)
-* Serverless orchestration (Step Functions, Durable Functions)
-* Waterfall and non-Waterfall forms of SDLC Management (Agile, Scrum, Kanban)
-* Shell scripting (Bash, PowerShell, JavaScript)
+* Terraform
+* CloudFormation
+* ARM Templates
+* Jenkins
+* CircleCI
+* Github Actions
+* Docker
+* Lambdas
+* Azure Functions
+* Step Functions
+* Agile
+* Bash
+* PowerShell
 
 ## Other Skills
 * Project Management
