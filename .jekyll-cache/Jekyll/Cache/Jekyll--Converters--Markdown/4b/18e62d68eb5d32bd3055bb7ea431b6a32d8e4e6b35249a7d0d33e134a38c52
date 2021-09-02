@@ -1,0 +1,104 @@
+I"þ
+<h1 id="jesse-anderson">Jesse Anderson</h1>
+
+<ul>
+  <li><i class="fa fa-phone"></i> <a href="tel:by request">by request</a></li>
+  <li><i class="fa fa-home"></i> <a href="https://jeryanders.github.io">resume</a></li>
+  <li><i class="fa fa-github"></i> <a href="https://github.com/jeryanders">Github</a></li>
+  <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jeryanders/">LinkedIn</a></li>
+  <li><i class="fa fa-envelope"></i> <a href="mailto:jeryanders@gmail.com">jeryanders@gmail.com</a></li>
+</ul>
+
+<hr />
+
+<h2 id="summary">Summary</h2>
+
+<p>Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which allows him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.</p>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2018-present</code>
+<strong>Rackspace Technology</strong>
+<em>Software Developer III</em> | <em>remote</em></p>
+<ul>
+  <li>Lead architect and developer in Managed Public Cloud for Azure offering responsible for mentoring, coaching, and managing numerous projects that enable thousands of globally distributed rackers the ability to serve customers</li>
+  <li>Built highly scalable microservices and serverless applications <em>in AWS and Azure</em> that enabled resell, billing, and management of Azure infrastructure using NodeJS, ReactJS, Terraform, and Jenkins DevOps</li>
+  <li>Migrated monolithic Azure App Services to serverless and containerized AWS solution using Lambdas, Step Functions, and Fargate</li>
+  <li>Planned, successfully executed, and delivered next generation automations and tooling using a proven agile development methodology</li>
+  <li>Led countless requirements gathering sessions with Product Owners and end-users to understand business needs, write technical specifications, and prototype solutions influence the direction of the Azure offering</li>
+  <li>Created dozens of Bash and Node scripts for handling a variety of business and compliance tasks</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2016-2018</code>
+<strong>Presence LLC</strong>
+<em>Senior Software Developer</em> | <em>St. Petersburg, FL</em></p>
+<ul>
+  <li>Built central form generation framework and interactive client-side builder allowing for completely custom automated data entry and entity automations that served as the foundation for all content in SaaS for student affairs professionals that managed over 100K yearly events for college campuses around the US</li>
+  <li>Created .NET Core microservices using C#, AngularJS, CosmosDb, and Azure App Services</li>
+  <li>Created JavaScript UI Grid framework allowing for vertical-scaling grid elements allowing for stackable, incongruent grid layouts</li>
+  <li>Built user-programmable logic framework for developing highly complex forms for entity creation allowing for over 40+ custom fields, widgets, and complex automations to streamline campus processes and student retention practices</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2016</code>
+<strong>Bayshore Solutions</strong>
+<em>Senior Software Developer</em> | <em>Tampa, FL</em></p>
+<ul>
+  <li>Built custom web applications using .NET/C# for businesses in the Tampa Bay area, meeting with clients to determine business requirements</li>
+  <li>Modernized traditional software development shop to run in a more agile manner</li>
+  <li>Responsible for interfacing with customers, conducting strategic requirements gathering meetings, and proposing software architecture</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2012-2015</code>
+<strong>AMPACC Law Group</strong>
+<em>IT Specialist</em> | <em>Mountlake Terrace, WA</em></p>
+<ul>
+  <li>Responsible for all, base-metal, and on-prem in-house IT operations including maintaining internal network domain</li>
+  <li>Created in-house Patent Case Management system, which saw two iterations over its life. First as a monolithic .NET MVC web application, the second as a service-oriented WPF native-Windows application integrating with SAML SSO.</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">August, 2010</code>
+<strong>Portland State University</strong>
+|
+<em>B.S. in Philosophy / Political Science</em> <code class="language-plaintext highlighter-rouge">Cum Laude Honors</code></p>
+<ul>
+  <li>Concentrations: Philosophy of Mind and American Political Thought</li>
+  <li><em>Involvement: Student Government, College Newspaper, Philosophy Club, McNair Scholars Program</em></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">June, 2006</code>
+<strong>Valencia Community College</strong>
+|
+<em>A.A. in Humanities</em></p>
+<ul>
+  <li>Concentrations: Philosophy</li>
+  <li><em>Involvement: Amnesty International</em></li>
+</ul>
+
+<h2 id="technical-skills">Technical Skills</h2>
+<ul>
+  <li>Full Stack JavaScript (NodeJS, ReactJS, AngularJS)</li>
+  <li>Cloud Development (AWS, Azure)</li>
+  <li>C#, .NET Framework / .NET Core</li>
+  <li>SQL</li>
+  <li>NoSQL Databases (DynamoDb, CosmosDb, MongoDb)</li>
+  <li>GoLang</li>
+  <li>IaC (Terraform, CloudFormation, ARM Templates)</li>
+  <li>DevOps (Jenkins, CircleCI, Github Actions)</li>
+  <li>Docker and Containerized microservice development</li>
+  <li>Serverless (Lambdas, Azure Functions)</li>
+  <li>Serverless orchestration (Step Functions, Durable Functions)</li>
+  <li>Waterfall and non-Waterfall forms of SDLC Management (Agile, Scrum, Kanban)</li>
+  <li>Shell scripting (Bash, PowerShell, JavaScript)</li>
+</ul>
+
+<h2 id="other-skills">Other Skills</h2>
+<ul>
+  <li>Project Management</li>
+  <li>Debate</li>
+  <li>Presentation / Public Speaking</li>
+  <li>Team Leadership</li>
+</ul>
+
+:ET
