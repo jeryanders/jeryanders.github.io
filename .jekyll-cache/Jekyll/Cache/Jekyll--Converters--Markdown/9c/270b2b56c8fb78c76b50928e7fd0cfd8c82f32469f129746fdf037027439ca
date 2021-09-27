@@ -1,8 +1,8 @@
-I"u
+I"é
 <h1 id="jesse-anderson">Jesse Anderson</h1>
 
 <ul>
-  <li><i class="fa fa-phone"></i> <a href="tel:by request">by request</a></li>
+  <li><i class="fa fa-phone"></i> <a href="tel:available-upon-request">Available Upon Request</a></li>
   <li><i class="fa fa-home"></i> <a href="https://jeryanders.github.io">resume</a></li>
   <li><i class="fa fa-github"></i> <a href="https://github.com/jeryanders">Github</a></li>
   <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jeryanders/">LinkedIn</a></li>
@@ -13,7 +13,7 @@
 
 <h2 id="summary">Summary</h2>
 
-<p>Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which allows him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.</p>
+<p>Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which enables him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs in a timely manner. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.</p>
 
 <h2 id="experience">Experience</h2>
 
@@ -22,11 +22,11 @@
 <em>Software Developer III</em> | <em>remote</em></p>
 <ul>
   <li>Lead architect and developer in Managed Public Cloud for Azure offering responsible for mentoring, coaching, and managing numerous projects that enable thousands of globally distributed rackers the ability to serve customers</li>
-  <li>Built highly scalable microservices and serverless applications <em>in AWS and Azure</em> that enabled resell, billing, and management of Azure infrastructure using NodeJS, ReactJS, Terraform, and Jenkins DevOps</li>
-  <li>Migrated monolithic Azure App Services to serverless and containerized AWS solution using Lambdas, Step Functions, and Fargate</li>
+  <li>Built highly scalable REST API microservices and serverless applications <em>in AWS and Azure</em> that enabled resell, billing, and management of Azure infrastructure using NodeJS, ReactJS, Terraform, and Jenkins DevOps</li>
+  <li>Migrated monolithic Azure App Services to orchestrated serverless solutions and containerized AWS solution using Lambdas, Step Functions, and Fargate</li>
   <li>Planned, successfully executed, and delivered next generation automations and tooling using a proven agile development methodology</li>
   <li>Led countless requirements gathering sessions with Product Owners and end-users to understand business needs, write technical specifications, and prototype solutions influence the direction of the Azure offering</li>
-  <li>Created dozens of Bash and Node scripts for handling a variety of business and compliance tasks</li>
+  <li>Created dozens of Bash and Node scripts for handling a variety of business and compliance tasks including PCI and SOX</li>
 </ul>
 
 <p><code class="language-plaintext highlighter-rouge">2016-2018</code>
@@ -81,6 +81,7 @@
   <li>JavaScript</li>
   <li>NodeJS</li>
   <li>ReactJS</li>
+  <li>Golang</li>
   <li>AngularJS</li>
   <li>AWS</li>
   <li>Azure</li>

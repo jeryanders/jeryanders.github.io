@@ -1,6 +1,6 @@
 # Jesse Anderson
 
-* <i class="fa fa-phone"></i> [by request](tel:by request)
+* <i class="fa fa-phone"></i> [Available Upon Request](tel:available-upon-request)
 * <i class="fa fa-home"></i> [resume](https://jeryanders.github.io)
 * <i class="fa fa-github"></i> [Github](https://github.com/jeryanders)
 * <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jeryanders/)
@@ -10,7 +10,7 @@
 
 ## Summary
 
-Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which allows him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.
+Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which enables him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs in a timely manner. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.
 
 ## Experience
 
@@ -18,11 +18,11 @@ Jesse is a self-motivated full stack software engineer, architect, and team lead
 **Rackspace Technology**
 _Software Developer III_ | _remote_
 * Lead architect and developer in Managed Public Cloud for Azure offering responsible for mentoring, coaching, and managing numerous projects that enable thousands of globally distributed rackers the ability to serve customers
-* Built highly scalable microservices and serverless applications _in AWS and Azure_ that enabled resell, billing, and management of Azure infrastructure using NodeJS, ReactJS, Terraform, and Jenkins DevOps
-* Migrated monolithic Azure App Services to serverless and containerized AWS solution using Lambdas, Step Functions, and Fargate
+* Built highly scalable REST API microservices and serverless applications _in AWS and Azure_ that enabled resell, billing, and management of Azure infrastructure using NodeJS, ReactJS, Terraform, and Jenkins DevOps
+* Migrated monolithic Azure App Services to orchestrated serverless solutions and containerized AWS solution using Lambdas, Step Functions, and Fargate
 * Planned, successfully executed, and delivered next generation automations and tooling using a proven agile development methodology
 * Led countless requirements gathering sessions with Product Owners and end-users to understand business needs, write technical specifications, and prototype solutions influence the direction of the Azure offering
-* Created dozens of Bash and Node scripts for handling a variety of business and compliance tasks
+* Created dozens of Bash and Node scripts for handling a variety of business and compliance tasks including PCI and SOX
 
 `2016-2018`
 **Presence LLC**
@@ -65,6 +65,7 @@ _A.A. in Humanities_
 * JavaScript
 * NodeJS
 * ReactJS
+* Golang
 * AngularJS
 * AWS
 * Azure
