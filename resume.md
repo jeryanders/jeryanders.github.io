@@ -1,10 +1,10 @@
 # Jesse Anderson
 
 * <i class="fa fa-phone"></i> [Available Upon Request](tel:available-upon-request)
-* <i class="fa fa-home"></i> [resume](https://jeryanders.github.io)
-* <i class="fa fa-github"></i> [Github](https://github.com/jeryanders)
+* <i class="fa fa-home"></i> [resume](https://offgriddev.github.io)
+* <i class="fa fa-github"></i> [Github](https://github.com/offgriddev)
 * <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jeryanders/)
-* <i class="fa fa-envelope"></i> [jeryanders@gmail.com](mailto:jeryanders@gmail.com)
+* <i class="fa fa-envelope"></i> [jeryanders@gmail.com](mailto:jesse@offgriddev.net)
 
 ---
 
