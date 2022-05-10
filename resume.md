@@ -14,7 +14,7 @@ Jesse is a self-motivated full stack software engineer, architect, and team lead
 
 ## Experience
 
-`2018-2021`
+`2021-2022`
 **Side Inc.**
 _Software Engineer_ | _remote_
 * Built tooling to optimize development workflow for distributed teams in a microservice environment
