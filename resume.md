@@ -14,7 +14,14 @@ Jesse is a self-motivated full stack software engineer, architect, and team lead
 
 ## Experience
 
-`2018-present`
+`2018-2021`
+**Side Inc.**
+_Software Engineer_ | _remote_
+* Built tooling to optimize development workflow for distributed teams in a microservice environment
+* Designed event-driven architecture using Managed Kafka through Confluent Cloud and spearheaded research and implementation phase with focus on decoupling the system architecture
+* Maintained node packages and extending functionality in TypeScript for NextJS UI, Fastify API, and core CLI tools that integrate with GCP
+
+`2018-2021`
 **Rackspace Technology**
 _Software Developer III_ | _remote_
 * Lead architect and developer in Managed Public Cloud for Azure offering responsible for mentoring, coaching, and managing numerous projects that enable thousands of globally distributed rackers the ability to serve customers
@@ -64,17 +71,15 @@ _A.A. in Humanities_
 ## Technical Skills
 * JavaScript
 * NodeJS
+* Kafka / EDD
 * ReactJS
 * Golang
-* AngularJS
 * AWS
-* Azure
+* Azure / AWS / GCP
 * C#
 * .NET Framework / .NET Core
 * SQL
-* DynamoDb
-* CosmosDb
-* MongoDb
+* NoSQL
 * GoLang
 * Terraform
 * CloudFormation
