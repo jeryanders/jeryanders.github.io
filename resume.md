@@ -10,7 +10,7 @@
 
 ## Summary
 
-Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philsoophy, which enables him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs in a timely manner. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.
+Jesse is a self-motivated full stack software engineer, architect, and team lead with a wide range of skills and experiences in different tech stacks, language, platforms, and frameworks. As a self-taught engineer, Jesse has a unique ability to learn new technologies, allowing him to rapidly gain practical understandings in highly complex systems and swiftly become an effective, value-adding team member. Additionally, Jesse has a rare theoretical background in philosophy, which enables him to strike an elegant balance between technical software design and pragmatic implementations to address strategic business needs in a timely manner. Lastly, with an understanding of collective action, Jesse has a proven track record of agile project planning, decomposing business requirements, and managing teams to meet rigid deadlines.
 
 ## Experience
 
